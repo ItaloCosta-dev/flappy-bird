@@ -1,3 +1,6 @@
+// Impedindo de bater asas se perdeu
+if (global.perdeu == true) exit;
+
 // Espera para bater asas novamente
 if (image_index >= 1)
 {
