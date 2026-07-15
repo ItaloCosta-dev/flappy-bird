@@ -36,6 +36,13 @@
   "name":"flappy-bird",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_bg_agua","path":"sprites/spr_bg_agua/spr_bg_agua.yy",},},
+    {"id":{"name":"spr_bg_arvore","path":"sprites/spr_bg_arvore/spr_bg_arvore.yy",},},
+    {"id":{"name":"spr_bg_lua","path":"sprites/spr_bg_lua/spr_bg_lua.yy",},},
+    {"id":{"name":"spr_bg_reflexo_arvores","path":"sprites/spr_bg_reflexo_arvores/spr_bg_reflexo_arvores.yy",},},
+    {"id":{"name":"spr_bg_reflexo_lua","path":"sprites/spr_bg_reflexo_lua/spr_bg_reflexo_lua.yy",},},
+    {"id":{"name":"spr_bg_reflexo2","path":"sprites/spr_bg_reflexo2/spr_bg_reflexo2.yy",},},
+    {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
