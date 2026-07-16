@@ -7,6 +7,8 @@ global.perdeu = false
 // Função para perder o jogo
 function perde_jogo()
 {
+	if (global.perdeu == true) exit;
+	
 	// Avisando que o player perdeu o jogo
 	global.perdeu = true;
 
