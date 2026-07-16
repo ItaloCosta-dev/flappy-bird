@@ -1,3 +1,9 @@
+// Destruindo ao sair da tela
+if (x <= - 64)
+{
+	instance_destroy();
+}
+
 // Ajustando a velocidade do pássaro
 if (global.perdeu == true) 
 {
