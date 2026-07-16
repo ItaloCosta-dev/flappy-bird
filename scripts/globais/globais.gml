@@ -9,6 +9,8 @@ global.pontos = 0;
 // Variável do level
 global.level = 1;
 
+// Lista de pontos para subir de level
+global.lista_pontos = [100,250, 500, 800, 1200, 1800, 2500, 3500, 5000];
 
 
 

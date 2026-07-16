@@ -5,6 +5,9 @@ draw_set_font(fnt_pontos);
 var _pontos = round(global.pontos);
 draw_text(20, 20, $"Pontos: {_pontos}");
 
+// Exibindo a pontuação necessária para o level atual
+draw_text(20, 50, global.lista_pontos[global.level - 1])
+
 // Encontrando o meio da tela do jogo
 var _meio_da_tela = window_get_width() / 2;
 
