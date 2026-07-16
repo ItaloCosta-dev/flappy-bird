@@ -1,2 +1,6 @@
-// Checando se o jogo acabou
+// Ajustando a velocidade
 if (global.perdeu == true) hspeed = 0;
+else
+{
+	hspeed = -2 - global.level;
+}

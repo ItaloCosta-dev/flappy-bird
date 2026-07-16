@@ -1,7 +1,7 @@
 //Sitema de pontuação
 if (global.perdeu == false)
 {
-	global.pontos += 20;
+	global.pontos += 0.1;
 	
 	// Sistema de levels
 	if (global.level < 9)
