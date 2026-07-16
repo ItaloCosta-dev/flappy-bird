@@ -1,6 +1,10 @@
-// Iniciando variáveis globais
+//========== VARIÁVEIS GLOBAIS ==========//
+
 // Variável para saber se o jogador perdeu
 global.perdeu = false
+
+// Variáveis dos pontos
+global.pontos = 0;
 
 //========== FUNÇÕES ==========//
 
