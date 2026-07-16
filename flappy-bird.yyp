@@ -52,6 +52,7 @@
     {"id":{"name":"spr_bg_reflexo_lua","path":"sprites/spr_bg_reflexo_lua/spr_bg_reflexo_lua.yy",},},
     {"id":{"name":"spr_bg_reflexo2","path":"sprites/spr_bg_reflexo2/spr_bg_reflexo2.yy",},},
     {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},},
+    {"id":{"name":"spr_level","path":"sprites/spr_level/spr_level.yy",},},
     {"id":{"name":"spr_passaro_1","path":"sprites/spr_passaro_1/spr_passaro_1.yy",},},
     {"id":{"name":"spr_passaro_2","path":"sprites/spr_passaro_2/spr_passaro_2.yy",},},
     {"id":{"name":"spr_passaro_3","path":"sprites/spr_passaro_3/spr_passaro_3.yy",},},
