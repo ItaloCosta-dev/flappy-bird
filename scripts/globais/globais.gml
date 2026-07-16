@@ -12,7 +12,8 @@ global.level = 1;
 // Lista de pontos para subir de level
 global.lista_pontos = [100,250, 500, 800, 1200, 1800, 2500, 3500, 5000];
 
-
+// Variável de coletáveis
+global.coletaveis = 0;
 
 //========== FUNÇÕES ==========//
 
