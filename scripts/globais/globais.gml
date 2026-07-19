@@ -31,7 +31,7 @@ function perde_jogo()
 	//indo para trás na colisão
 	hspeed = -2;
 
-	// Fazendo o background pagar
+	// Fazendo o background parar
 	layer_hspeed("bg_arvores", 0)
 	layer_hspeed("bg_reflexo2", 0)
 
