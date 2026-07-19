@@ -12,7 +12,10 @@ var _meio_da_tela = window_get_width() / 2;
 draw_sprite_ext(spr_level, global.level, _meio_da_tela, 30, 2, 2, 0, c_white, 1);
 
 // Exibindo coletáveis
-draw_text(20, 50, global.coletaveis);
+draw_text(60, 50, global.coletaveis);
+
+// Desenhando os ícones de coletáveis 
+draw_sprite_ext(spr_coletavel_icone,0, 30, 70, 2, 2, 0, c_white, 1)
 
 // Resetando a fonte para não afetar o jogo todo
 draw_set_font(-1);
