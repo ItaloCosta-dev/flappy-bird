@@ -38,3 +38,10 @@ function perde_jogo()
 	// Reiniciando o jogo depois de 1 segundo
 	alarm[0] = game_get_speed(gamespeed_fps)
 }
+
+// Função para auxiliar a sequência de transição
+function muda_room()
+{
+	// Room do jogo
+	room_goto(rm_jogo)
+}
