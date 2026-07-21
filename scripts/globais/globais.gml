@@ -15,6 +15,9 @@ global.lista_pontos = [100,250, 500, 800, 1200, 1800, 2500, 3500, 5000];
 // Variável de coletáveis
 global.coletaveis = 0;
 
+// Variável para controlar a transição
+global.transicao = false
+
 //========== FUNÇÕES ==========//
 
 // Função para perder o jogo
@@ -47,4 +50,10 @@ function muda_room()
 {
 	// Room do jogo
 	room_goto(rm_jogo)
+}
+
+// Finalizando a transição
+function finaliza_transicao()
+{
+	global.transicao =  false
 }
