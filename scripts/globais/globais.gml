@@ -37,6 +37,9 @@ function perde_jogo()
 
 	// Reiniciando o jogo depois de 1 segundo
 	alarm[0] = game_get_speed(gamespeed_fps)
+	
+	// Criando a transição 1
+	layer_sequence_create("Transicao", 0, 0, sq_transicao1)
 }
 
 // Função para auxiliar a sequência de transição
