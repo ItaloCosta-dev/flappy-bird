@@ -1,1 +1,1 @@
-if (bloqueado == true) image_speed = 0;
+//if (bloqueado == true) image_speed = 0;
