@@ -11,6 +11,7 @@ if (global.perdeu == false)
 		{
 			// Ganhando level
 			global.level++;
+			audio_play_sound(snd_level_up, 0, false) // Som ao subir de level
 			
 			// Mudando a velocidade do background
 			// Fazendo o background pagar
