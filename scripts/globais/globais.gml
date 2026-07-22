@@ -18,6 +18,10 @@ global.coletaveis = 0;
 // Variável para controlar a transição
 global.transicao = false
 
+// Variável da lista de ítens
+global.itens_bloqueados = [false, true];
+
+
 //========== FUNÇÕES ==========//
 
 // Função para perder o jogo

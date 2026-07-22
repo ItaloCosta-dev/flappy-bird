@@ -35,6 +35,7 @@
         "GMSprite",
       ],"listItems":[],"multiselect":false,"name":"sprite","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"spr_passaro_2","path":"sprites/spr_passaro_2/spr_passaro_2.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"spr_passaro_2","varType":5,},
     {"$GMObjectProperty":"v2","%Name":"bloqueado","filters":[],"listItems":[],"multiselect":false,"name":"bloqueado","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+    {"$GMObjectProperty":"v2","%Name":"indice","filters":[],"listItems":[],"multiselect":false,"name":"indice","rangeEnabled":false,"rangeMax":1.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
