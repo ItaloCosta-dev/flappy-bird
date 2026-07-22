@@ -21,6 +21,7 @@ global.transicao = false
 // Variável da lista de ítens
 global.itens_bloqueados = [false, true];
 
+global.sprite_player = spr_passaro_1
 
 //========== FUNÇÕES ==========//
 
